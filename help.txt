@@ -1,0 +1,8 @@
+1. copy main.db to the folder with the script
+Windows: %appdata%\skype\main.db
+Everyone else:
+https://support.skype.com/en/faq/FA392/where-can-i-find-my-conversation-history-in-skype-for-windows-desktop-and-what-can-i-do-with-it#9
+
+2. Run the script
+
+3. Output is in output/
